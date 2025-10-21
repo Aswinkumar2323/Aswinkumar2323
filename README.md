@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aswin Kumar 👋
 
-<!--
-**Aswinkumar2323/Aswinkumar2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full Stack Developer with 1 year of experience building Flutter & Firebase apps
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Mobile:** Flutter, Dart
+- **Backend:** Node.js, Firebase Cloud Functions
+- **Database:** Firestore
+- **Payments:** Razorpay, Chargebee
+- **Tools:** Git, Github, Cursor, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: aswinak0330@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aswin-kumar-/
