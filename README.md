@@ -11,6 +11,6 @@ Full Stack Developer with 1 year of experience building Flutter & Firebase apps
 - **Tools:** Git, Github, Cursor, VS Code
 
 ## 📫 Contact Me
-[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-0090FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinak@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-Contact%20Me-0090FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aswinak0330@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Aswin%20Kumar-15D6A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin-kumar-/)
 
