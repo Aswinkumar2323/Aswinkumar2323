@@ -7,7 +7,7 @@ Full Stack Developer with 1 year of experience building scalable web application
 
 ## 💻 Tech Stack
 
-### **Frontend (Full Stack)**
+### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
